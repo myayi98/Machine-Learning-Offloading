@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileComputing</string>
+    <string-array name="categories">
+        <item>Person</item>
+        <item>Furniture</item>
+        <item>Animal</item>
+        <item>Electronics</item>
+    </string-array>
+</resources>
